@@ -52,3 +52,16 @@
 
 ###
 
+# Play Snake in your browser
+
+
+[![Play Snake](https://img.shields.io/static/v1?label=Play&message=Snake&color=4c9aff&style=for-the-badge)](https://USERNAME.github.io/REPONAME)
+
+
+Click the badge above to open the game (hosted on GitHub Pages).
+
+
+> To host: add the provided `index.html` to your repository and follow the GitHub Pages steps below.
+
+###
+
