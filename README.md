@@ -25,7 +25,7 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,vscode,mysql,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch,sklearn,git,github,vscode,mysql,linux&perline=6" />
   </p>
 </div>
 
