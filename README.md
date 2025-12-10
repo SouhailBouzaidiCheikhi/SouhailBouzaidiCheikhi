@@ -23,9 +23,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,vscode,mysql,linux&perline=6" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,vscode,mysql,linux&perline=6" />
+  </p>
+</div>
 
 ###
 
