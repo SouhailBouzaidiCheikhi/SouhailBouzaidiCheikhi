@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b6686261-6afd-41a2-ba85-98434151f7ed" alt="my_logo_gif"/>
+  ![my_logo_gif](https://github.com/user-attachments/assets/8342102f-d42b-4b99-8107-fa8a9f664951)
 </div>
 
-![my_logo_gif](https://github.com/user-attachments/assets/8342102f-d42b-4b99-8107-fa8a9f664951)
+
 
 ###
 
