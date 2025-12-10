@@ -60,7 +60,9 @@ These are the essential tools every Data Science student should master — and t
 - Dataset querying & manipulation  
 
 ### 🧰 **Tools & Environment**
-- Jupyter Notebook  
+- Jupyter Notebook
+- Google Colab
+- Docker  
 - Git & GitHub  
 - VS Code  
 
