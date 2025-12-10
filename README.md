@@ -21,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,vscode,mysql,linux&perline=6" />
 </div>
 
 ###
@@ -61,6 +63,7 @@ These are the essential tools every Data Science student should master — and t
 ### 🧰 **Tools & Environment**
 - Jupyter Notebook
 - Google Colab
+- streamlit
 - Docker  
 - Git & GitHub  
 - VS Code  
@@ -70,13 +73,6 @@ These are the essential tools every Data Science student should master — and t
 - Deep Learning  
 - NLP  
 - Time Series Analysis  
-
----
-
-## 🛠️ Tech Icons
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,vscode,mysql,linux&perline=6" />
-</p>
 
 ---
 
