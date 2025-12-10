@@ -5,9 +5,8 @@
 ###
 
 <div align="center">
-  ![my_logo_gif](https://github.com/user-attachments/assets/8342102f-d42b-4b99-8107-fa8a9f664951)
+  <img src="https://github.com/user-attachments/assets/8342102f-d42b-4b99-8107-fa8a9f664951" alt="my_logo_gif" />
 </div>
-
 
 
 ###
