@@ -95,16 +95,7 @@ These are the essential tools every Data Science student should master — and t
 
 ---
 
-## 🔮 Elegant Glowing Button (placeholder)
-> GitHub does not allow CSS/JS; use a PNG or GIF for the glowing effect.
-
-
-<p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/SouhailBouzaidiCheikhi/SouhailBouzaidiCheikhi/main/button-normal.png" alt="button" width="200" />
-  </a>
-</p>
-
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.youtube.com/YOUR_CHANNEL" target="_blank">
