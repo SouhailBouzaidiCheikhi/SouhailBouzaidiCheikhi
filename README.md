@@ -26,6 +26,85 @@
 
 ###
 
+# 👋 Welcome to My GitHub
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Souhail+Bouzaidi+Cheikhi;Data+Science+Student;Passionate+about+AI+%26+Analytics;Elegance+in+Code+and+Design" />
+</p>
+
+---
+
+## ✨ About Me
+I am a **Data Science student** with a passion for uncovering insights, building intelligent systems, and crafting elegant software solutions. I enjoy blending analytical thinking with thoughtful design, aiming to create tools that are both powerful and beautifully structured.
+
+---
+
+## 🎓 Skills & Tools  
+These are the essential tools every Data Science student should master — and that I'm actively working with:
+
+### 📊 **Data Science & Machine Learning**
+- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)  
+- Data Cleaning & Pre-processing  
+- Exploratory Data Analysis (EDA)  
+- Regression, Classification & Clustering  
+- Model Evaluation & Optimization  
+
+### 📈 **Data Visualization**
+- Matplotlib  
+- Seaborn  
+- Plotly  
+- Power BI *(learning)*  
+
+### 🗄️ **Databases**
+- SQL (MySQL / PostgreSQL basics)  
+- Dataset querying & manipulation  
+
+### 🧰 **Tools & Environment**
+- Jupyter Notebook  
+- Git & GitHub  
+- VS Code  
+
+### 🧠 **Future Skills (On My Learning Path)**
+- TensorFlow / PyTorch  
+- Deep Learning  
+- NLP  
+- Time Series Analysis  
+
+---
+
+## 🛠️ Tech Icons
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,vscode,mysql,linux&perline=6" />
+</p>
+
+---
+
+## 📘 My Interests
+- Data-driven decision making  
+- Elegant coding practices  
+- AI aesthetics & design  
+- Automation and productivity  
+
+---
+
+## 🌱 Currently Learning
+- Deep Learning foundations  
+- More advanced ML models  
+- How to elegantly structure large-scale data workflows  
+
+---
+
+## 🔮 Elegant Glowing Button (placeholder)
+> GitHub does not allow CSS/JS; use a PNG or GIF for the glowing effect.
+
+
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/SouhailBouzaidiCheikhi/SouhailBouzaidiCheikhi/main/button-normal.png" alt="button" width="200" />
+  </a>
+</p>
+
+
 <div align="center">
   <a href="https://www.youtube.com/YOUR_CHANNEL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
