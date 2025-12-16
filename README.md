@@ -46,8 +46,8 @@ I am a **Data Science student** with a passion for uncovering insights, building
 
 ## 💼 Hiring Status
 
-✅ Available for PFE internship starting immediately
-✅ Open to full-time positions after graduation
+- ✅ Available for PFE internship starting immediately
+- ✅ Open to full-time positions after graduation
 - Target Positions: Data Analyst, Data Scientist, Machine Learning Engineer, Business Intelligence
 
 ---
