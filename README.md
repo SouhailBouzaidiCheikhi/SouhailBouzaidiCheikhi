@@ -44,7 +44,7 @@ I am a **Data Science student** with a passion for uncovering insights, building
 
 ---
 
-## 💼 Job Status
+## 💼 Hiring Status
 
 ✅ Available for PFE internship starting immediately
 ✅ Open to full-time positions after graduation
