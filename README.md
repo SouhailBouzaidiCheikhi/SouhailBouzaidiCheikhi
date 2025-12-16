@@ -44,6 +44,14 @@ I am a **Data Science student** with a passion for uncovering insights, building
 
 ---
 
+## 💼 Job Status
+
+✅ Available for PFE internship starting immediately
+✅ Open to full-time positions after graduation
+- Target Positions: Data Analyst, Data Scientist, Machine Learning Engineer, Business Intelligence
+
+---
+
 ## 🎓 Skills & Tools  
 These are the essential tools every Data Science student should master — and that I'm actively working with:
 
