@@ -34,7 +34,7 @@
 # 👋 Welcome to My GitHub
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Souhail+Bouzaidi+Cheikhi;Data+Science+Student;Passionate+about+AI+%26+Analytics;Elegance+in+Code+and+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Souhail+Bouzaidi+Cheikhi;Data+Science+Student;Open+Open+To+Internship+Opportunities;Passionate+about+AI+%26+Analytics;Elegance+in+Code+and+Design" />
 </p>
 
 ---
